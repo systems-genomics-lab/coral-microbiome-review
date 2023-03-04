@@ -1,0 +1,536 @@
+Use raxml with AVX support with overriden number of threads
+
+RAxML can't, parse the alignment file as phylip file 
+it will now try to parse it as FASTA file
+
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+This is the RAxML Master Pthread
+
+This is RAxML Worker Pthread Number: 2
+
+This is RAxML Worker Pthread Number: 3
+
+This is RAxML Worker Pthread Number: 4
+
+This is RAxML Worker Pthread Number: 1
+
+This is RAxML Worker Pthread Number: 6
+
+This is RAxML Worker Pthread Number: 5
+
+This is RAxML Worker Pthread Number: 9
+
+This is RAxML Worker Pthread Number: 7
+
+This is RAxML Worker Pthread Number: 10
+
+This is RAxML Worker Pthread Number: 8
+
+This is RAxML Worker Pthread Number: 11
+
+This is RAxML Worker Pthread Number: 14
+
+This is RAxML Worker Pthread Number: 13
+
+This is RAxML Worker Pthread Number: 12
+
+This is RAxML Worker Pthread Number: 15
+
+This is RAxML Worker Pthread Number: 16
+
+This is RAxML Worker Pthread Number: 17
+
+This is RAxML Worker Pthread Number: 20
+
+This is RAxML Worker Pthread Number: 18
+
+This is RAxML Worker Pthread Number: 21
+
+This is RAxML Worker Pthread Number: 19
+
+This is RAxML Worker Pthread Number: 23
+
+This is RAxML Worker Pthread Number: 22
+
+This is RAxML Worker Pthread Number: 24
+
+This is RAxML Worker Pthread Number: 25
+
+This is RAxML Worker Pthread Number: 26
+
+This is RAxML Worker Pthread Number: 28
+
+This is RAxML Worker Pthread Number: 27
+
+This is RAxML Worker Pthread Number: 29
+
+This is RAxML Worker Pthread Number: 30
+
+This is RAxML Worker Pthread Number: 33
+
+This is RAxML Worker Pthread Number: 32
+
+This is RAxML Worker Pthread Number: 31
+
+This is RAxML Worker Pthread Number: 34
+
+This is RAxML Worker Pthread Number: 35
+
+This is RAxML Worker Pthread Number: 36
+
+This is RAxML Worker Pthread Number: 38
+
+This is RAxML Worker Pthread Number: 37
+
+This is RAxML Worker Pthread Number: 39
+
+This is RAxML Worker Pthread Number: 41
+
+This is RAxML Worker Pthread Number: 40
+
+This is RAxML Worker Pthread Number: 43
+
+This is RAxML Worker Pthread Number: 45
+
+This is RAxML Worker Pthread Number: 42
+
+This is RAxML Worker Pthread Number: 44
+
+This is RAxML Worker Pthread Number: 46
+
+This is RAxML Worker Pthread Number: 48
+
+This is RAxML Worker Pthread Number: 47
+
+This is RAxML Worker Pthread Number: 49
+
+This is RAxML Worker Pthread Number: 50
+
+This is RAxML Worker Pthread Number: 51
+
+This is RAxML Worker Pthread Number: 53
+
+This is RAxML Worker Pthread Number: 52
+
+This is RAxML Worker Pthread Number: 55
+
+This is RAxML Worker Pthread Number: 57
+
+This is RAxML Worker Pthread Number: 54
+
+This is RAxML Worker Pthread Number: 56
+
+This is RAxML Worker Pthread Number: 58
+
+This is RAxML Worker Pthread Number: 60
+
+This is RAxML Worker Pthread Number: 59
+
+This is RAxML Worker Pthread Number: 61
+
+This is RAxML Worker Pthread Number: 62
+
+This is RAxML Worker Pthread Number: 65
+
+This is RAxML Worker Pthread Number: 66
+
+This is RAxML Worker Pthread Number: 64
+
+This is RAxML Worker Pthread Number: 63
+
+This is RAxML Worker Pthread Number: 67
+
+This is RAxML Worker Pthread Number: 69
+
+This is RAxML Worker Pthread Number: 68
+
+This is RAxML Worker Pthread Number: 71
+
+This is RAxML Worker Pthread Number: 70
+
+This is RAxML Worker Pthread Number: 73
+
+This is RAxML Worker Pthread Number: 75
+
+This is RAxML Worker Pthread Number: 72
+
+This is RAxML Worker Pthread Number: 74
+
+This is RAxML Worker Pthread Number: 76
+
+This is RAxML Worker Pthread Number: 77
+
+This is RAxML Worker Pthread Number: 78
+
+This is RAxML Worker Pthread Number: 79
+
+This is RAxML Worker Pthread Number: 80
+
+This is RAxML Worker Pthread Number: 81
+
+This is RAxML Worker Pthread Number: 82
+
+This is RAxML Worker Pthread Number: 83
+
+This is RAxML Worker Pthread Number: 85
+
+This is RAxML Worker Pthread Number: 84
+
+This is RAxML Worker Pthread Number: 86
+
+This is RAxML Worker Pthread Number: 87
+
+This is RAxML Worker Pthread Number: 88
+
+This is RAxML Worker Pthread Number: 89
+
+This is RAxML Worker Pthread Number: 90
+
+This is RAxML Worker Pthread Number: 91
+
+This is RAxML Worker Pthread Number: 92
+
+This is RAxML Worker Pthread Number: 93
+
+This is RAxML Worker Pthread Number: 95
+
+This is RAxML Worker Pthread Number: 94
+
+This is RAxML Worker Pthread Number: 96
+
+This is RAxML Worker Pthread Number: 97
+
+This is RAxML Worker Pthread Number: 98
+
+This is RAxML Worker Pthread Number: 99
+
+This is RAxML Worker Pthread Number: 100
+
+This is RAxML Worker Pthread Number: 101
+
+This is RAxML Worker Pthread Number: 102
+
+This is RAxML Worker Pthread Number: 103
+
+This is RAxML Worker Pthread Number: 104
+
+This is RAxML Worker Pthread Number: 105
+
+This is RAxML Worker Pthread Number: 106
+
+This is RAxML Worker Pthread Number: 107
+
+This is RAxML Worker Pthread Number: 108
+
+This is RAxML Worker Pthread Number: 109
+
+This is RAxML Worker Pthread Number: 110
+
+This is RAxML Worker Pthread Number: 111
+
+This is RAxML Worker Pthread Number: 112
+
+This is RAxML Worker Pthread Number: 113
+
+This is RAxML Worker Pthread Number: 114
+
+This is RAxML Worker Pthread Number: 116
+
+This is RAxML Worker Pthread Number: 115
+
+This is RAxML Worker Pthread Number: 118
+
+This is RAxML Worker Pthread Number: 119
+
+This is RAxML Worker Pthread Number: 120
+
+This is RAxML Worker Pthread Number: 117
+
+This is RAxML Worker Pthread Number: 121
+
+This is RAxML Worker Pthread Number: 122
+
+This is RAxML Worker Pthread Number: 123
+
+This is RAxML Worker Pthread Number: 124
+
+This is RAxML Worker Pthread Number: 125
+
+This is RAxML Worker Pthread Number: 128
+
+This is RAxML Worker Pthread Number: 126
+
+This is RAxML Worker Pthread Number: 127
+
+This is RAxML Worker Pthread Number: 129
+
+This is RAxML Worker Pthread Number: 130
+
+This is RAxML Worker Pthread Number: 131
+
+This is RAxML Worker Pthread Number: 132
+
+This is RAxML Worker Pthread Number: 133
+
+This is RAxML Worker Pthread Number: 135
+
+This is RAxML Worker Pthread Number: 134
+
+This is RAxML Worker Pthread Number: 136
+
+This is RAxML Worker Pthread Number: 137
+
+This is RAxML Worker Pthread Number: 139
+
+This is RAxML Worker Pthread Number: 140
+
+This is RAxML Worker Pthread Number: 138
+
+This is RAxML Worker Pthread Number: 143
+
+This is RAxML Worker Pthread Number: 141
+
+This is RAxML Worker Pthread Number: 142
+
+This is RAxML Worker Pthread Number: 144
+
+This is RAxML Worker Pthread Number: 145
+
+This is RAxML Worker Pthread Number: 146
+
+This is RAxML Worker Pthread Number: 147
+
+This is RAxML Worker Pthread Number: 149
+
+This is RAxML Worker Pthread Number: 148
+
+This is RAxML Worker Pthread Number: 150
+
+This is RAxML Worker Pthread Number: 151
+
+This is RAxML Worker Pthread Number: 152
+
+This is RAxML Worker Pthread Number: 153
+
+This is RAxML Worker Pthread Number: 154
+
+This is RAxML Worker Pthread Number: 155
+
+This is RAxML Worker Pthread Number: 156
+
+This is RAxML Worker Pthread Number: 157
+
+This is RAxML Worker Pthread Number: 158
+
+This is RAxML Worker Pthread Number: 159
+
+This is RAxML Worker Pthread Number: 160
+
+This is RAxML Worker Pthread Number: 161
+
+This is RAxML Worker Pthread Number: 162
+
+This is RAxML Worker Pthread Number: 163
+
+This is RAxML Worker Pthread Number: 164
+
+This is RAxML Worker Pthread Number: 165
+
+This is RAxML Worker Pthread Number: 167
+
+This is RAxML Worker Pthread Number: 166
+
+This is RAxML Worker Pthread Number: 168
+
+This is RAxML Worker Pthread Number: 169
+
+This is RAxML Worker Pthread Number: 170
+
+This is RAxML Worker Pthread Number: 171
+
+This is RAxML Worker Pthread Number: 172
+
+This is RAxML Worker Pthread Number: 173
+
+This is RAxML Worker Pthread Number: 174
+
+This is RAxML Worker Pthread Number: 175
+
+This is RAxML Worker Pthread Number: 176
+
+This is RAxML Worker Pthread Number: 177
+
+This is RAxML Worker Pthread Number: 178
+
+This is RAxML Worker Pthread Number: 179
+
+This is RAxML Worker Pthread Number: 180
+
+This is RAxML Worker Pthread Number: 181
+
+This is RAxML Worker Pthread Number: 182
+
+This is RAxML Worker Pthread Number: 183
+
+This is RAxML Worker Pthread Number: 184
+
+This is RAxML Worker Pthread Number: 185
+
+This is RAxML Worker Pthread Number: 186
+
+This is RAxML Worker Pthread Number: 187
+
+This is RAxML Worker Pthread Number: 188
+
+This is RAxML Worker Pthread Number: 189
+
+This is RAxML Worker Pthread Number: 190
+
+This is RAxML Worker Pthread Number: 191
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 1332 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 3.07%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 1332
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/usr/bin/raxmlHPC-PTHREADS-AVX -T 192 -f a -m GTRGAMMA -p 12345 -x 12345 -N 100 -s coral-microbiome.trimmed.aln -n coral-microbiome.trimmed.raxml 
+
+
+
+Time for BS model parameter optimization 2.258768
+Bootstrap[0]: Time 324.079515 seconds, bootstrap likelihood -375567.698901, best rearrangement setting 13
+Bootstrap[1]: Time 213.566122 seconds, bootstrap likelihood -392365.652317, best rearrangement setting 13
+Bootstrap[2]: Time 153.405903 seconds, bootstrap likelihood -383514.482609, best rearrangement setting 12
+Bootstrap[3]: Time 176.706264 seconds, bootstrap likelihood -401742.584004, best rearrangement setting 15
+Bootstrap[4]: Time 139.024099 seconds, bootstrap likelihood -385934.410745, best rearrangement setting 10
+Bootstrap[5]: Time 134.501509 seconds, bootstrap likelihood -397483.967296, best rearrangement setting 10
+Bootstrap[6]: Time 74.258841 seconds, bootstrap likelihood -370144.121782, best rearrangement setting 6
+Bootstrap[7]: Time 478.119864 seconds, bootstrap likelihood -371274.942910, best rearrangement setting 14
+Bootstrap[8]: Time 65.820961 seconds, bootstrap likelihood -395846.006082, best rearrangement setting 5
+Bootstrap[9]: Time 93.603840 seconds, bootstrap likelihood -362626.073906, best rearrangement setting 7
+Bootstrap[10]: Time 135.251841 seconds, bootstrap likelihood -375526.651282, best rearrangement setting 7
+Bootstrap[11]: Time 65.557021 seconds, bootstrap likelihood -379507.934573, best rearrangement setting 5
+Bootstrap[12]: Time 200.916157 seconds, bootstrap likelihood -394157.795873, best rearrangement setting 8
+Bootstrap[13]: Time 91.695831 seconds, bootstrap likelihood -393320.337151, best rearrangement setting 7
+Bootstrap[14]: Time 259.481042 seconds, bootstrap likelihood -390682.577399, best rearrangement setting 12
+Bootstrap[15]: Time 172.216803 seconds, bootstrap likelihood -371163.754919, best rearrangement setting 15
+Bootstrap[16]: Time 452.020088 seconds, bootstrap likelihood -402786.275163, best rearrangement setting 12
+Bootstrap[17]: Time 582.181599 seconds, bootstrap likelihood -401484.495650, best rearrangement setting 12
+Bootstrap[18]: Time 77.267559 seconds, bootstrap likelihood -372930.729167, best rearrangement setting 5
+Bootstrap[19]: Time 128.006242 seconds, bootstrap likelihood -396082.374999, best rearrangement setting 8
+Bootstrap[20]: Time 140.878870 seconds, bootstrap likelihood -385640.709833, best rearrangement setting 10
+Bootstrap[21]: Time 78.078632 seconds, bootstrap likelihood -397869.535099, best rearrangement setting 6
+Bootstrap[22]: Time 60.083612 seconds, bootstrap likelihood -382887.685825, best rearrangement setting 5
+Bootstrap[23]: Time 88.037428 seconds, bootstrap likelihood -379638.207274, best rearrangement setting 7
+Bootstrap[24]: Time 100.343740 seconds, bootstrap likelihood -400070.683873, best rearrangement setting 8
+Bootstrap[25]: Time 670.296489 seconds, bootstrap likelihood -373360.353448, best rearrangement setting 6
+Bootstrap[26]: Time 942.121136 seconds, bootstrap likelihood -404369.322310, best rearrangement setting 12
+Bootstrap[27]: Time 1139.826202 seconds, bootstrap likelihood -380748.914744, best rearrangement setting 10
+Bootstrap[28]: Time 199.122832 seconds, bootstrap likelihood -403257.073898, best rearrangement setting 11
+Bootstrap[29]: Time 135.699524 seconds, bootstrap likelihood -377141.766449, best rearrangement setting 12
+Bootstrap[30]: Time 182.251626 seconds, bootstrap likelihood -406465.071569, best rearrangement setting 15
+Bootstrap[31]: Time 160.290752 seconds, bootstrap likelihood -366307.316264, best rearrangement setting 15
+Bootstrap[32]: Time 73.050221 seconds, bootstrap likelihood -392135.589021, best rearrangement setting 6
+Bootstrap[33]: Time 158.269267 seconds, bootstrap likelihood -376651.381062, best rearrangement setting 15
+Bootstrap[34]: Time 133.946799 seconds, bootstrap likelihood -392858.013862, best rearrangement setting 11
+Bootstrap[35]: Time 104.508650 seconds, bootstrap likelihood -386210.877740, best rearrangement setting 8
+Bootstrap[36]: Time 112.396302 seconds, bootstrap likelihood -375328.825858, best rearrangement setting 9
+Bootstrap[37]: Time 137.848917 seconds, bootstrap likelihood -365360.853305, best rearrangement setting 11
+Bootstrap[38]: Time 102.520410 seconds, bootstrap likelihood -377292.379998, best rearrangement setting 8
+Bootstrap[39]: Time 162.481341 seconds, bootstrap likelihood -420924.679178, best rearrangement setting 13
+Bootstrap[40]: Time 168.578549 seconds, bootstrap likelihood -380759.539014, best rearrangement setting 13
+Bootstrap[41]: Time 173.699822 seconds, bootstrap likelihood -400279.400401, best rearrangement setting 10
+Bootstrap[42]: Time 89.819833 seconds, bootstrap likelihood -385566.164559, best rearrangement setting 5
+Bootstrap[43]: Time 160.924767 seconds, bootstrap likelihood -383178.059638, best rearrangement setting 14
+Bootstrap[44]: Time 118.180872 seconds, bootstrap likelihood -384983.877646, best rearrangement setting 10
+Bootstrap[45]: Time 171.275131 seconds, bootstrap likelihood -387799.678341, best rearrangement setting 15
+Bootstrap[46]: Time 166.341172 seconds, bootstrap likelihood -382062.509437, best rearrangement setting 14
+Bootstrap[47]: Time 103.410658 seconds, bootstrap likelihood -401610.980654, best rearrangement setting 8
+Bootstrap[48]: Time 74.976683 seconds, bootstrap likelihood -386090.024823, best rearrangement setting 6
+Bootstrap[49]: Time 89.501063 seconds, bootstrap likelihood -393330.949982, best rearrangement setting 7
+Bootstrap[50]: Time 93.639855 seconds, bootstrap likelihood -395606.904022, best rearrangement setting 7
+Bootstrap[51]: Time 130.960033 seconds, bootstrap likelihood -374435.773903, best rearrangement setting 11
+Bootstrap[52]: Time 154.509855 seconds, bootstrap likelihood -380904.637117, best rearrangement setting 12
+Bootstrap[53]: Time 102.778814 seconds, bootstrap likelihood -384607.196871, best rearrangement setting 8
+Bootstrap[54]: Time 111.150981 seconds, bootstrap likelihood -391531.487287, best rearrangement setting 9
+Bootstrap[55]: Time 141.660316 seconds, bootstrap likelihood -408809.262123, best rearrangement setting 11
+Bootstrap[56]: Time 59.209446 seconds, bootstrap likelihood -385140.139108, best rearrangement setting 5
+Bootstrap[57]: Time 86.092183 seconds, bootstrap likelihood -394154.919431, best rearrangement setting 7
+Bootstrap[58]: Time 131.554550 seconds, bootstrap likelihood -385002.716860, best rearrangement setting 10
+Bootstrap[59]: Time 172.278232 seconds, bootstrap likelihood -403526.806821, best rearrangement setting 9
+Bootstrap[60]: Time 488.913581 seconds, bootstrap likelihood -400224.191998, best rearrangement setting 7
+Bootstrap[61]: Time 58.896829 seconds, bootstrap likelihood -367652.580748, best rearrangement setting 5
+Bootstrap[62]: Time 136.939872 seconds, bootstrap likelihood -402573.772053, best rearrangement setting 11
+Bootstrap[63]: Time 159.935144 seconds, bootstrap likelihood -402195.657624, best rearrangement setting 12
+Bootstrap[64]: Time 88.304750 seconds, bootstrap likelihood -384203.017108, best rearrangement setting 7
+Bootstrap[65]: Time 58.110350 seconds, bootstrap likelihood -378514.698759, best rearrangement setting 5
+Bootstrap[66]: Time 58.820491 seconds, bootstrap likelihood -395909.283806, best rearrangement setting 5
+Bootstrap[67]: Time 159.415960 seconds, bootstrap likelihood -377910.504584, best rearrangement setting 15
+Bootstrap[68]: Time 131.574446 seconds, bootstrap likelihood -371384.384058, best rearrangement setting 11
+Bootstrap[69]: Time 146.273174 seconds, bootstrap likelihood -400497.147831, best rearrangement setting 5
+Bootstrap[70]: Time 111.819108 seconds, bootstrap likelihood -394378.044176, best rearrangement setting 8
+Bootstrap[71]: Time 180.888749 seconds, bootstrap likelihood -399632.451443, best rearrangement setting 10
+Bootstrap[72]: Time 151.586534 seconds, bootstrap likelihood -396683.631138, best rearrangement setting 11
+Bootstrap[73]: Time 122.950630 seconds, bootstrap likelihood -392085.266301, best rearrangement setting 9
+Bootstrap[74]: Time 61.096121 seconds, bootstrap likelihood -405083.420221, best rearrangement setting 5
+Bootstrap[75]: Time 2237.576781 seconds, bootstrap likelihood -392961.585582, best rearrangement setting 8
+Bootstrap[76]: Time 113.054283 seconds, bootstrap likelihood -386555.325023, best rearrangement setting 9
+Bootstrap[77]: Time 497.886901 seconds, bootstrap likelihood -387687.807862, best rearrangement setting 11
+Bootstrap[78]: Time 192.627918 seconds, bootstrap likelihood -379966.505891, best rearrangement setting 15
+Bootstrap[79]: Time 125.535246 seconds, bootstrap likelihood -391384.303713, best rearrangement setting 9
+Bootstrap[80]: Time 202.402111 seconds, bootstrap likelihood -393174.574590, best rearrangement setting 15
+Bootstrap[81]: Time 616.714912 seconds, bootstrap likelihood -386126.260638, best rearrangement setting 7
+Bootstrap[82]: Time 5269.578122 seconds, bootstrap likelihood -390480.071664, best rearrangement setting 6
+Bootstrap[83]: Time 1996.955877 seconds, bootstrap likelihood -382210.021803, best rearrangement setting 10
+Bootstrap[84]: Time 178.235564 seconds, bootstrap likelihood -379268.952010, best rearrangement setting 11
+Bootstrap[85]: Time 153.271066 seconds, bootstrap likelihood -390711.295277, best rearrangement setting 8
+Bootstrap[86]: Time 119.675597 seconds, bootstrap likelihood -387462.002412, best rearrangement setting 7
+Bootstrap[87]: Time 94.928074 seconds, bootstrap likelihood -370111.920695, best rearrangement setting 7
+Bootstrap[88]: Time 173.632466 seconds, bootstrap likelihood -413273.195118, best rearrangement setting 12
+Bootstrap[89]: Time 164.288953 seconds, bootstrap likelihood -367236.376073, best rearrangement setting 10
+Bootstrap[90]: Time 109.230591 seconds, bootstrap likelihood -405301.189345, best rearrangement setting 8
+Bootstrap[91]: Time 277.758276 seconds, bootstrap likelihood -399398.106106, best rearrangement setting 12
+Bootstrap[92]: Time 617.637866 seconds, bootstrap likelihood -391328.748371, best rearrangement setting 13
